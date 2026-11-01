@@ -13,7 +13,6 @@
 - 💻 Interested in Software Development and Web Development
 - 🌱 Currently learning Data Structures and Algorithms
 - 🚀 Exploring Python, JavaScript, and Full Stack Development
-- 📚 Preparing for GATE 2027 (Computer Science)
 - 🎯 Passionate about learning new technologies and building projects
 
 ---
@@ -57,7 +56,7 @@
 ### 📈 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashaswini_mv&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
