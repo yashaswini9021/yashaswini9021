@@ -52,14 +52,13 @@
 </p>
 
 ---
-### 📊 Most Used Languages
-
 
 ### 📊 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashaswini9021&layout=compact&theme=tokyonight" alt="Most Used Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yashaswini9021&theme=tokyonight" alt="Most Used Languages" />
 </p>
+
 
 
 ---
